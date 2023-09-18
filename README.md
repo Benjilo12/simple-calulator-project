@@ -1,3 +1,3 @@
 # simple-calculator-project
 
-simple calcultor project with js
+simple calculator project with js
